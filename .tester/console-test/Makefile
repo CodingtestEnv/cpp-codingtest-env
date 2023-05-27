@@ -1,5 +1,6 @@
 CC=g++
-CXXFLAGS = 
+CXXFLAGS = -stdc++11
+
 CFILES = $(CUR_PATH)/solution.cpp
 TARGET = $(CUR_PATH)/solution.out
 
